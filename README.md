@@ -6,8 +6,11 @@ Today we focussed on CSS - styling component of a web page,the basic ones alone 
 
 
 1)Make HTML file with a title, heading and colour sets. 
+
 2)Change the label of colours to respective colours.
+
 3)Create pallete box.
+
 4)Make the pallete clickable with animation charecters.
 
 
